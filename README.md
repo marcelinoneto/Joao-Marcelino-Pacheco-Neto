@@ -1,6 +1,6 @@
 # Joao Marcelino Pacheco Neto
 
-<h3>sobre</h3>
+<h3>Sobre</h3>
 
 Bacharel Engenharia de Computação
 
